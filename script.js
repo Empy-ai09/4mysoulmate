@@ -1,6 +1,6 @@
 // ====== KONFIGURASI ======
 // Ganti URL galeri di sini:
-const GALLERY_URL = "https://example.com/galeri-nadya";
+const GALLERY_URL = "https://empy-ai09.github.io/galeri-kita/";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Set gallery link
